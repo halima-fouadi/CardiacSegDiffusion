@@ -36,3 +36,31 @@ We propose a controllable generative framework for cardiac MRI synthesis using:
 ---
 
 ## Repository Structure
+
+CardiacSegDiffusion/
+├── train_lora.py # (to be released)
+├── train_controlnet.py # (to be released)
+├── train_segformer.py # (to be released)
+├── configs/ # (to be released)
+├── prompts/ # (to be released)
+├── utils/ # (to be released)
+---
+
+## Dataset
+
+The synthetic dataset generated in this work will be released upon acceptance.
+
+---
+
+## Reproducibility
+
+All experiments are conducted with:
+- Seed: 42
+- Resolution: 512×512
+- Controlled diffusion parameters
+
+---
+
+##  Note
+
+This repository is intentionally anonymized for the review process.
